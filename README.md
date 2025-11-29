@@ -1,13 +1,13 @@
 <h1 align="center">
   <a href="https://github.com/pavanpalve12">
-    <img src="https://github.com/pavanpalve12/task_tracker_cli/blob/764da540f36220889135411a55656798d70425c0/dev_logo.png" height = "45" width="60" align="left">
+    <img src="https://github.com/pavanpalve12/task_tracker_cli/blob/6a7b33791ecd9f42a24dea57acb64710d32b7399/dev_logo.png" height = "45" width="60" align="left">
   </a>
   📋 To-Do List Manager - CLI BASED
 </h1>
 
 <a href="https://roadmap.sh/projects/task-tracker" target="_blank">
   <img 
-    src="/projects/python/to-do-list-manager/scripts/to_do_cli_demo.gif" 
+    src="https://github.com/pavanpalve12/task_tracker_cli/blob/6a7b33791ecd9f42a24dea57acb64710d32b7399/scripts/to_do_cli_demo.gif" 
     alt="Preview"
     width="800" 
     height="400"
@@ -29,7 +29,7 @@ Ideal for developers learning how to build maintainable, testable CLI applicatio
 ---
 # 📍 Solution URL
 
-[https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+https://github.com/pavanpalve12/task_tracker_cli
 
 ---
 
