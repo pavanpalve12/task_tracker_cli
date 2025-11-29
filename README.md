@@ -29,7 +29,7 @@ Ideal for developers learning how to build maintainable, testable CLI applicatio
 ---
 # 📍 Solution URL
 
-[https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+https://github.com/pavanpalve12/task_tracker_cli
 
 ---
 
